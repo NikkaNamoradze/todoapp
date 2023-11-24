@@ -1,7 +1,4 @@
-<img width="1144" alt="Screenshot 2023-11-24 at 14 06 46" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/0f8b8f41-f765-4a7d-ac12-e0f956d8d4c7">
-<img width="1119" alt="Screenshot 2023-11-24 at 14 07 12" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/deacd459-c778-4517-885c-5fb0d5d1ddc3">
-<img width="1050" alt="Screenshot 2023-11-24 at 14 07 22" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/ac0b9df9-acb9-429a-93b5-f512e622463a">
-<img width="1060" alt="Screenshot 2023-11-24 at 14 07 38" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/f061507a-1b5c-4b77-92ac-b119ff2f6b05">
-<img width="983" alt="Screenshot 2023-11-24 at 14 07 50" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/31e5ad15-71db-46ce-82c1-07a8d86c7657">
-<img width="981" alt="Screenshot 2023-11-24 at 14 08 03" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/70878344-10b7-4b2f-9457-a927fc2449f4">
-
+<img width="1029" alt="Screenshot 2023-11-24 at 14 09 53" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/0b2a9fe3-1089-4aa1-9b4a-7b8ad94902d7">
+<img width="1191" alt="Screenshot 2023-11-24 at 14 10 04" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/9e7fcfcb-f25f-452a-8c0d-df9abe651b58">
+<img width="1065" alt="Screenshot 2023-11-24 at 14 10 21" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/e815d2df-e202-4c79-a863-793119e1b324">
+<img width="1078" alt="Screenshot 2023-11-24 at 14 10 41" src="https://github.com/NikkaNamoradze/todoapp/assets/107554272/0c82e609-631b-49d1-aca3-46351caeca47">
